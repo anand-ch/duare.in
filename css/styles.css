@@ -166,3 +166,22 @@ h3 {
   /* background-color: #eaffd0; */
 
 }
+
+/* ITEM LIST */
+
+#item-list {
+  background-color: #faf4f4;
+  text-align: center;
+  padding-top: 5% ;
+  padding-bottom: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+
+}
+
+.item-image {
+  width: 0%;
+  border: 1rem solid #ddd;
+  width: 100%;
+  height: 50%;
+}
