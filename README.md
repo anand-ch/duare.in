@@ -1,1 +1,1 @@
-Duare Starting Files
+TinDog Starting Files
