@@ -48,13 +48,14 @@ h3 {
   text-align: center;
 }
 .scroll-feature {
-  position: absolute;
-  left: 50%;
+  /* position: absolute;
+  left: 90%;
   top:90%;
-  text-align: center;
+  text-align: center; */
 }
 .scroll {
   color: #639a67;
+  align: right;
 }
 .scroll:hover{
   color: #2b580c;
