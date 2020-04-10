@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Montserrat";
 }
@@ -38,6 +41,25 @@ h3 {
   text-align: center;
 }
 
+.scroll-title {
+  position: absolute;
+  left: 50%;
+  top:90%;
+  text-align: center;
+}
+.scroll-feature {
+  position: absolute;
+  left: 50%;
+  top:90%;
+  text-align: center;
+}
+.scroll {
+  color: #639a67;
+}
+.scroll:hover{
+  color: #2b580c;
+}
+
 .container-fluid {
   padding: 0;
 }
@@ -46,6 +68,7 @@ h3 {
 .navbar {
   padding-bottom: 2rem;
 }
+
 
 .navbar-brand {
   font-family: "Ubuntu";
@@ -84,6 +107,10 @@ h3 {
 
 }
 
+.carousel-feature {
+  height: 26%;
+}
+
 /* How It Works Sections */
 
 #howitworks {
@@ -116,8 +143,8 @@ h3 {
   /* background-color: #eaffd0; */
   background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
   text-align: center;
-  padding-top: 15% ;
-  padding-bottom: 10%;
+  padding-top: 5% ;
+  padding-bottom: 5%;
   padding-left: 7%;
   padding-right: 7%;
   /* -webkit-background-size: cover;
