@@ -1,2 +1,1 @@
-# duare.in
-Duare Front End
+TinDog Starting Files

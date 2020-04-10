@@ -1,0 +1,140 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #e4f9f5;
+  /* background-image: url("../images/background.jpg"); */
+}
+
+h1 {
+  font-family: 'Montserrat-Black';
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2 {
+  font-family: 'Montserrat';
+  font-size: 2rem;
+
+
+}
+
+h3 {
+  font-family: 'Montserrat-Bold';
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container {
+  position: relative;
+}
+
+/* Centered text */
+#main-title {
+  position: absolute;
+  top: 5%;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+/* Features */
+#features {
+  background-color: #faf4f4;
+  text-align: center;
+  padding-top: 15% ;
+  padding-bottom: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+
+}
+
+
+.fa-money-bill-wave {
+  width: 4em;
+  height: 5rem;
+}
+
+.icon {
+  color: #639a67;
+  /* 2b580c */
+}
+
+.icon:hover{
+  color: #2b580c
+
+}
+
+/* How It Works Sections */
+
+#howitworks {
+  padding-top: 5% ;
+  padding-bottom: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+  text-align: center;
+  background-color: #ef962d;
+  color: #fff;
+
+}
+.howitworks-text {
+  text-align: center;
+}
+
+.howitworks-image
+{
+  width:20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+
+
+
+/* SERVICE AREA PAGE */
+#service-area {
+  /* background-color: #eaffd0; */
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
+  text-align: center;
+  padding-top: 15% ;
+  padding-bottom: 10%;
+  padding-left: 7%;
+  padding-right: 7%;
+  /* -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover; */
+}
+
+.service-area-image {
+
+  width:100%;
+  border-radius: 50%;
+  margin: 20px;
+
+
+}
+.location {
+  /* background-color: #eaffd0; */
+
+}
